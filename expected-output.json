@@ -1,0 +1,23 @@
+[
+    {
+        "make": "VOLKSWAGEN",
+        "model": "AMAROK PICK - UP",
+        "version": "C/S 2,0 TDI 140CV 4X2 START",
+        "year": 2021,
+        "price": 4000
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "AMAROK PICK - UP",
+        "version": "C/S 2,0 TDI 140CV 4X2 START",
+        "year": 2022,
+        "price": 5000
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "GOL TREND",
+        "version": "5P 1,6 HIGHLINE 2017",
+        "year": 2019,
+        "price": 6492
+    }
+]
